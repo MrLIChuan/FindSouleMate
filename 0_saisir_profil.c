@@ -3,7 +3,7 @@
 PROJET LANGAGE C 
 Trouver l'âme soeur
 nom: 0_saisir_profil.c
-date: 01/2019
+date: 12/2018
 programmé par:  Chuan LI
 */
 
