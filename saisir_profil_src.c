@@ -1,10 +1,10 @@
 
 /*
-PROJET LANGAGE C EI2I S5
+PROJET LANGAGE C 
 Trouver l'âme soeur
 nom: saisir_profil_src.c
 date: 01/2019
-programmé par: Dongxun LIU, Chuan LI
+programmé par:  Chuan LI
 */
 
 #include <stdio.h>
