@@ -3,7 +3,7 @@
 PROJET LANGAGE C 
 Trouver l'âme soeur
 nom: erreur.c
-date: 01/2019
+date: 12/2018
 programmé par: Chuan LI
 */
 
