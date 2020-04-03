@@ -21,3 +21,13 @@ So with this practice system, we use C for base caculation for theirs informatio
 
 
 Requirement metal: Linux, C
+
+
+User book
+
+用Linux在saisir文件夹里打开，在运行界面输入指令
+./saisir_profil 名字拼音无空格
+回答问题结束以后会生成一个以你名字为文件名的txt文件。
+同样的方式给你喜欢的人填一份（这个程序暂不支持同性恋，偷懒忘记写了，下次加），生成文件以后，把这两个人的txt文件拷贝去compare_profil文件夹. 然后输入指令，注意空格。
+./compare_profil 你的名字 对方的名字
+会车就出结果了，多少分可以算算，我把我自己的txt传上去了，没事可以和楼主配配对
